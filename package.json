@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "A starter project for PGS",
   "repository": "https://github.com/bygettingthingsdone/PGS",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "devDependencies": {
     "bower": "^1.7.9",
     "browserify": "^13.1.1",
