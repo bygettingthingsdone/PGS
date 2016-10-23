@@ -2,7 +2,7 @@
   "name": "pgs-rekrutacja",
   "description": "A project for PGS recruitment process",
   "version": "0.0.0",
-  "homepage": "https://github.com/bygettingthingsdone/pgs-recruitment",
+  "homepage": "https://github.com/bygettingthingsdone/PGS",
   "license": "MIT",
   "dependencies": {
     "angular": "1.5.x",
