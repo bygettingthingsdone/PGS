@@ -1,0 +1,30 @@
+{
+  "name": "pgs-rekrutacja",
+  "description": "A project for PGS recruitment process",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bygettingthingsdone/pgs-recruitment",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-mocks": "1.5.x",
+    "angular-route": "1.5.x",
+    "bootstrap": "^3.3.7"
+  },
+  "main": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "keywords": [
+    "pgs",
+    "recruitment"
+  ],
+  "authors": [
+    "Szczepan Barszczowski"
+  ]
+}
